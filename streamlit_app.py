@@ -43,13 +43,3 @@ if ingredients_list:
     
         session.sql(my_insert_stmt).collect()
         st.success('Your Smoothie is ordered!', icon="✅")
-
-
-
-Je me permets de vous contacter suite à votre annonce publiée sur LinkedIn concernant votre campagne de recrutement en data.
-
-Je suis convaincu que mes compétences techniques et mon enthousiasme pour les défis technologiques pourraient apporter une valeur ajoutée à vos équipes. 
-
-Je vous remercie par avance pour l’attention portée à ma candidature et reste à votre disposition pour toute information complémentaire.
-
-Bien cordialement,
